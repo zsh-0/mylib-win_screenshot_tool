@@ -2,19 +2,19 @@
   "schema_version": 1,
   "project": "mylib-win-screenshot-tool",
   "source": "github",
-  "version": "1.0.0",
-  "package_name": "mylib-win-screenshot-tool-v1.0.0.exe",
+  "version": "1.0.1",
+  "package_name": "mylib-win-screenshot-tool-v1.0.1.exe",
   "package_parts": [
     {
-      "name": "mylib-win-screenshot-tool-v1.0.0.exe.part001",
-      "url": "https://github.com/zsh-0/mylib-win_screenshot_tool/releases/download/mylib-win-screenshot-tool-v1.0.0/mylib-win-screenshot-tool-v1.0.0.exe.part001",
-      "sha256": "2ac678c326c0a00dfcb01584b9c5d2ad62870f65989b74c416c740af33a852f7",
-      "size": 52527799
+      "name": "mylib-win-screenshot-tool-v1.0.1.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-win_screenshot_tool/releases/download/mylib-win-screenshot-tool-v1.0.1/mylib-win-screenshot-tool-v1.0.1.exe.part001",
+      "sha256": "92d9a8bd2efd757de6c6af0bd1454a8b860a44bae08e8ac7eaa2fb4fce4d60bf",
+      "size": 52527468
     }
   ],
-  "sha256": "2ac678c326c0a00dfcb01584b9c5d2ad62870f65989b74c416c740af33a852f7",
-  "size": 52527799,
-  "notes": "V1.0.0\n1、初版发布",
+  "sha256": "92d9a8bd2efd757de6c6af0bd1454a8b860a44bae08e8ac7eaa2fb4fce4d60bf",
+  "size": 52527468,
+  "notes": "V1.0.1\n1、修复升级提示信息",
   "mandatory": false,
-  "published_at": "2026-09-27T06:21:53+00:00"
+  "published_at": "2026-09-27T06:50:24+00:00"
 }
